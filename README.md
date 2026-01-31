@@ -20,10 +20,14 @@
 - **Нейросетевой регрессор** (предсказание качества вина)
 
 
-### Доступ к ноутбукам:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/VeronikaKolimova/ml-neural-networks-classification-regression//HEAD?filepath=L_05_1.ipynb)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/VeronikaKolimova/ml-neural-networks-classification-regression//HEAD?filepath=L_05_2.ipynb)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/VeronikaKolimova/ml-neural-networks-classification-regression//HEAD?filepath=L_05_3.ipynb)
+### 📓 Доступ к ноутбукам проекта:
+ 
+Бинарный классификатор [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/VeronikaKolimova/ml-neural-networks-classification-regression//HEAD?filepath=L_05_1.ipynb)
+
+Регрессионное моделирование с нейронными сетями  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/VeronikaKolimova/ml-neural-networks-classification-regression//HEAD?filepath=L_05_2.ipynb)
+
+
+Многоклассовая нейросетевая классификация  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/VeronikaKolimova/ml-neural-networks-classification-regression//HEAD?filepath=L_05_3.ipynb)
 
 ## 🚀 Быстрый старт
 
