@@ -21,13 +21,11 @@
 
 
 ### 📓 Доступ к ноутбукам проекта:
- 
-Бинарный классификатор [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/VeronikaKolimova/ml-neural-networks-classification-regression//HEAD?filepath=L_05_1.ipynb)
-
-Регрессионное моделирование с нейронными сетями  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/VeronikaKolimova/ml-neural-networks-classification-regression//HEAD?filepath=L_05_2.ipynb)
-
-
-Многоклассовая нейросетевая классификация  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/VeronikaKolimova/ml-neural-networks-classification-regression//HEAD?filepath=L_05_3.ipynb)
+| Задача | Описание | Запуск в Colab | Запуск в Binder | Просмотр в nbviewer |
+|--------|----------|----------------|-----------------|---------------------|
+| **🩺 Бинарная классификация** | Диагностика диабета с обработкой дисбаланса классов, взвешенной функцией потери и подбором оптимального порога | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VeronikaKolimova/ml-neural-networks-classification-regression/blob/main/L_05_1.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/VeronikaKolimova/ml-neural-networks-classification-regression/HEAD?filepath=L_05_1.ipynb) | [![nbviewer](https://img.shields.io/badge/View-nbviewer-orange?logo=jupyter)](https://nbviewer.org/github/VeronikaKolimova/ml-neural-networks-classification-regression/blob/main/L_05_1.ipynb) |
+| **🏃 Многоклассовая классификация** | Оценка физического развития (4 класса) с балансировкой SMOTE и расширенной оценкой метрик (AUC, MCC, Kappa) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VeronikaKolimova/ml-neural-networks-classification-regression/blob/main/L_05_2.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/VeronikaKolimova/ml-neural-networks-classification-regression/HEAD?filepath=L_05_2.ipynb) | [![nbviewer](https://img.shields.io/badge/View-nbviewer-orange?logo=jupyter)](https://nbviewer.org/github/VeronikaKolimova/ml-neural-networks-classification-regression/blob/main/L_05_2.ipynb) |
+| **🍷 Нейросетевой регрессор** | Прогноз качества белого вина с 5-fold кросс-валидацией и анализом остатков | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VeronikaKolimova/ml-neural-networks-classification-regression/blob/main/L_05_3.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/VeronikaKolimova/ml-neural-networks-classification-regression/HEAD?filepath=L_05_3.ipynb) | [![nbviewer](https://img.shields.io/badge/View-nbviewer-orange?logo=jupyter)](https://nbviewer.org/github/VeronikaKolimova/ml-neural-networks-classification-regression/blob/main/L_05_3.ipynb) |
 
 ## 🚀 Быстрый старт
 
