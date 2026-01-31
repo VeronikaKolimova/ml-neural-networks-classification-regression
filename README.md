@@ -1,7 +1,6 @@
 # ml-neural-networks-classification-regression
-Neural network models for binary/multiclass classification and regression tasks. Implementation of three deep learning architectures 
-
-/ Нейросетевые модели для задач бинарной/многоклассовой классификации и регрессии. Реализация трёх архитектур глубокого обучения
+### Neural network models for binary/multiclass classification and regression tasks. Implementation of three deep learning architectures 
+### Нейросетевые модели для задач бинарной/многоклассовой классификации и регрессии. Реализация трёх архитектур глубокого обучения
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.13-orange?logo=tensorflow)
