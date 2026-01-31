@@ -20,6 +20,94 @@
 - **Нейросетевой регрессор** (предсказание качества вина)
 
 
+### Открыть ноутбуки можно:
+<div style="display: flex; justify-content: center; gap: 20px; margin: 30px 0; flex-wrap: wrap;">
+  <!-- Кнопка 1: Бинарный классификатор -->
+  <a href="https://github.com/VeronikaKolimova/ml-neural-networks-classification-regression/blob/main/L_05_1.ipynb" 
+     target="_blank"
+     style="display: inline-block; 
+            background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%);
+            color: white; 
+            text-decoration: none; 
+            padding: 16px 32px; 
+            border-radius: 50px; 
+            font-weight: 600; 
+            font-size: 16px;
+            box-shadow: 0 6px 20px rgba(37, 117, 252, 0.4);
+            transition: all 0.3s ease;
+            text-align: center;
+            min-width: 240px;
+            position: relative;
+            overflow: hidden;">
+    <span style="position: relative; z-index: 2;">🩺 Бинарный классификатор</span>
+    <span style="position: absolute; top: -50%; left: -50%; width: 200%; height: 200%; 
+                background: radial-gradient(circle, rgba(255,255,255,0.3) 0%, rgba(255,255,255,0) 70%);
+                transform: scale(0); transition: transform 0.5s ease; z-index: 1;"></span>
+    <div style="position: absolute; bottom: 8px; left: 0; width: 100%; font-size: 13px; opacity: 0.9;">Диагностика диабета</div>
+  </a>
+  
+  <!-- Кнопка 2: Многоклассовый классификатор -->
+  <a href="https://github.com/VeronikaKolimova/ml-neural-networks-classification-regression/blob/main/L_05_2.ipynb" 
+     target="_blank"
+     style="display: inline-block; 
+            background: linear-gradient(135deg, #00c9ff 0%, #92fe9d 100%);
+            color: #0a3d32; 
+            text-decoration: none; 
+            padding: 16px 32px; 
+            border-radius: 50px; 
+            font-weight: 600; 
+            font-size: 16px;
+            box-shadow: 0 6px 20px rgba(0, 201, 255, 0.35);
+            transition: all 0.3s ease;
+            text-align: center;
+            min-width: 240px;
+            position: relative;
+            overflow: hidden;">
+    <span style="position: relative; z-index: 2;">🏃 Многоклассовый классификатор</span>
+    <span style="position: absolute; top: -50%; left: -50%; width: 200%; height: 200%; 
+                background: radial-gradient(circle, rgba(255,255,255,0.3) 0%, rgba(255,255,255,0) 70%);
+                transform: scale(0); transition: transform 0.5s ease; z-index: 1;"></span>
+    <div style="position: absolute; bottom: 8px; left: 0; width: 100%; font-size: 13px; opacity: 0.9;">Физическое развитие</div>
+  </a>
+  
+  <!-- Кнопка 3: Регрессор -->
+  <a href="https://github.com/VeronikaKolimova/ml-neural-networks-classification-regression/blob/main/L_05_3.ipynb" 
+     target="_blank"
+     style="display: inline-block; 
+            background: linear-gradient(135deg, #ff9a9e 0%, #fad0c4 100%);
+            color: #5a2a27; 
+            text-decoration: none; 
+            padding: 16px 32px; 
+            border-radius: 50px; 
+            font-weight: 600; 
+            font-size: 16px;
+            box-shadow: 0 6px 20px rgba(255, 154, 158, 0.35);
+            transition: all 0.3s ease;
+            text-align: center;
+            min-width: 240px;
+            position: relative;
+            overflow: hidden;">
+    <span style="position: relative; z-index: 2;">🍷 Нейросетевой регрессор</span>
+    <span style="position: absolute; top: -50%; left: -50%; width: 200%; height: 200%; 
+                background: radial-gradient(circle, rgba(255,255,255,0.3) 0%, rgba(255,255,255,0) 70%);
+                transform: scale(0); transition: transform 0.5s ease; z-index: 1;"></span>
+    <div style="position: absolute; bottom: 8px; left: 0; width: 100%; font-size: 13px; opacity: 0.9;">Качество вина</div>
+  </a>
+</div>
+
+<style>
+  a:hover {
+    transform: translateY(-3px) scale(1.03);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.25) !important;
+  }
+  a:hover span:first-child {
+    transform: scale(1.05);
+  }
+  a:hover span:last-child {
+    transform: scale(1.8);
+  }
+</style>
+
 ## 🚀 Быстрый старт
 
 ### Локальная установка
