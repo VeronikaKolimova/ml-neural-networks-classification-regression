@@ -49,6 +49,19 @@ jupyter notebook
 
 # 📊 Наборы данных
 
+## Датасеты
+
+- **Plant Village Disease Classification Challenge**  
+  https://www.kaggle.com/datasets/emmarex/plantdisease
+- **Классы для бинарной классификации:**
+  - `Potato___Late_blight`
+  - `Potato___healthy`
+- **Классы для многоклассовой классификации:**
+  - `Potato___Early_blight`
+  - `Potato___Late_blight`
+  - `Potato___healthy`
+
+
 | Задача | Датасет | Целевая переменная | Признаки | Описание |
 |--------|---------|-------------------|----------|----------|
 | **Бинарная классификация** | [Diabetes Health Indicators](https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset) | `Diabetes_012` (0 = нет диабета, 1/2 = преддиабет/диабет) | 13 показателей здоровья (`GenHlth`, `BMI`, `Age`, `HighBP`, `HighChol`, `CholCheck`, `Smoker`, `PhysActivity`, `Fruits`, `Veggies`, `HvyAlcoholConsump`, `DiffWalk`, `Sex`) | Диагностика диабета на основе медицинских показателей |
